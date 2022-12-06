@@ -1,5 +1,5 @@
 # Online Appendix: Parameterizing Chains in Fixed point Free Generalized Involutions
-This is the online appendix for my undergraduate thesis in Mathematics, where I present an original theorem that explains the general rule for constructing the W-sets of generalized fixed point free involutions. If you are interested in reading the thesis please send an email to bel [at] tulane [dot] edu. I'll be happy to share my work with you. 
+This is the online appendix for my undergraduate thesis in Mathematics, where I present an original theorem that explains the general rule for constructing the W-sets of generalized fixed point free involutions. If you are interested in reading the latest version of my work please send an email to bel [at] tulane [dot] edu. I'll be happy to share it with you. 
 
 ## Advisors
 - Dr. Michael Joyce
