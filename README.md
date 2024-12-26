@@ -6,4 +6,4 @@ The W-sets of elements of weak order posets are useful in the study of the cohom
 
 The achievements of this thesis are threefold. Firstly, we provide a new proof for the parametrization of the W-sets of fixed-point-free involutions by Can et al. (2016). The proof from Can et al. (2016) is formulated as a corollary of the rule for the W-sets of all involutions, whereas our proof is self-contained. Secondly, using computational experiments, we generate the W-sets for generalized fixed-point-free involutions for n ≤ 16. Then, based on the W-sets that we generated, we propose a conjecture for parametrizing W-sets of generalized fixed-point-free involutions. Thirdly, building on the arguments we used to prove the rule for fixed-point-free involutions, we prove a complete characterization of the W-set for the generalized fixed-point-free involutions. <br>
 
-Link to the Thesis: https://library.search.tulane.edu/discovery/delivery/01TUL_INST:Tulane/12433822100006326
+Link to the paper: https://library.search.tulane.edu/discovery/delivery/01TUL_INST:Tulane/12433822100006326
