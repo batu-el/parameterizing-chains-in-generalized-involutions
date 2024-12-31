@@ -1,4 +1,4 @@
-## Parameterizing chains in generalized fixed point free involutions
+# Parameterizing Chains in Generalized Fixed-Point-Free Involutions
 
 [![Paper](https://img.shields.io/badge/Paper-007ACC?style=for-the-badge&labelColor=007ACC)](https://library.search.tulane.edu/discovery/delivery/01TUL_INST:Tulane/12433822100006326)
 [![Presentation](https://img.shields.io/badge/Drive_Folder-007ACC?style=for-the-badge&labelColor=007ACC)](https://github.com/batu-el/parameterizing-chains-in-generalized-involutions/blob/main/HT2-Presentation.pdf)
