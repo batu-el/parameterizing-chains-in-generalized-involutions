@@ -1,7 +1,7 @@
 # Parameterizing Chains in Generalized Fixed-Point-Free Involutions
 
-[![Presentation](https://img.shields.io/badge/Drive_Folder-007ACC?style=for-the-badge&labelColor=007ACC)](https://github.com/batu-el/parameterizing-chains-in-generalized-involutions/blob/main/HT2-Presentation.pdf)
 [![Paper](https://img.shields.io/badge/Paper-007ACC?style=for-the-badge&labelColor=007ACC)](https://library.search.tulane.edu/discovery/delivery/01TUL_INST:Tulane/12433822100006326)
+[![Ali](https://img.shields.io/badge/Drive_Folder-007ACC?style=for-the-badge&labelColor=007ACC)](https://github.com/batu-el/parameterizing-chains-in-generalized-involutions/blob/main/HT2-Presentation.pdf)
 
 ## Abstract
 The W-sets of elements of weak order posets are useful in the study of the cohomology of the closures of spherical subgroups in generalized flag varieties (Can et al., 2016). This motivated the study of the  W-sets of involutions, fixed-point-free involutions, and charged involutions in previous research (Can et al., 2016; Can and Joyce, 2013; Can et al., 2018). Generalized involutions, or mu-involutions, have similar geometric interpretations; however, parametrization of their W-sets remained an open question. Our main result presents a theorem that parametrizes the W-set of generalized fixed-point-free involutions.
